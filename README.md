@@ -14,7 +14,7 @@ This is an off-chain node script that submits BTC prices to a decentralized orac
 
 pip install -r requirements.txt
 
-3. Create a `.env` file:
+3. Create a `.env` file or just rename the .env.example to .env with provide your wallet private key(create a new wallet and fund it):
 
 
 PRIVATE_KEY=YourWalletKey
