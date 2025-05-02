@@ -19,8 +19,10 @@ pip install -r requirements.txt
 
 PRIVATE_KEY=YourWalletKey
 RPC_URL=https://evm-tst3.exsat.network/
-CONTRACT_ADDRESS=0xYourContract
+CONTRACT_ADDRESS=oraclecontract
 
+
+-> .env.example already has correct data, just add your wallet private key
 
 4. Run the oracle node:
 python oracle_node.py
