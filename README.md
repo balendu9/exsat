@@ -7,7 +7,7 @@ This is an off-chain node script that submits BTC prices to a decentralized orac
 - Python 3.7+
 - Infura (or other RPC provider)
 - ETH wallet with gas
-
+- Fund you wallet with btc testnet tokens: https://faucet.exsat.network/
 ## 🚀 Setup
 
 1. Clone the repo
